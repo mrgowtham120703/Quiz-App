@@ -75,7 +75,7 @@ function Quiz() {
             <li ref={Option4} onClick={(e)=>{checkAns(e,4)}}>{question.option4}</li>
         </ul>
         <button onClick={next}>Next</button>
-        <div className='index'>{index+1} of {data.lenght} questions</div>
+        <div className='index'>{index+1} of {data.length} questions</div>
         </>
         }
         
