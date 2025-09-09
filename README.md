@@ -20,9 +20,9 @@ The app displays multiple-choice questions, highlights correct/wrong answers, an
 
 ## 🖼️ Demo
 
-![Quiz App Screenshot](assets/image1.png)  
-![Quiz App Screenshot](assets/image2.png)  
-![Quiz App Screenshot](assets/image3.png)  
+![Quiz App Screenshot](src/assets/image1.png)  
+![Quiz App Screenshot](src/assets/image2.png)  
+![Quiz App Screenshot](src/assets/image3.png)  
 
 
 ---
